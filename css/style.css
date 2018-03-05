@@ -5,8 +5,5 @@ body {
 .display-3,
 .lead {
     text-align: right;
+    color: rgb(16, 16, 53);
 }
-
-/* #contactMe {
-    
-} */
